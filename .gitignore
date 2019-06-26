@@ -1,6 +1,0 @@
-config.cfg
-data.json
-__init__.py
-__pycache__/
-settings.py
-middlewares.py
