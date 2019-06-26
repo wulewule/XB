@@ -1,8 +1,0 @@
-/config.cfg
-/KNN/spiders/data.json
-/KNN/_init_.py
-/KNN/spiders/_init_.py
-/KNN/spiders/_pycache
-/KNN/_pycache_
-/KNN/settings.py
-/KNN/middlewares.py
